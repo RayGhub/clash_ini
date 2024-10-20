@@ -5,6 +5,12 @@ ruleset=GitHub,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/re
 ruleset=TikTok,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/TikTok/TikTok.list
 ruleset=Telegram,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.list
 
+
+ruleset=游戏,https://raw.githubusercontent.com/Z-Siqi/Clash-for-Windows_Rule/refs/heads/main/Rule/Steam
+ruleset=游戏,https://raw.githubusercontent.com/Z-Siqi/Clash-for-Windows_Rule/refs/heads/main/Rule/Epic-Games
+
+ruleset=Google,https://raw.githubusercontent.com/Z-Siqi/Clash-for-Windows_Rule/refs/heads/main/Rule/Google
+
 ruleset=流媒体,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Disney/Disney.list
 ruleset=流媒体,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Netflix/Netflix.list
 ruleset=流媒体,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spotify/Spotify.list
@@ -24,6 +30,9 @@ custom_proxy_group=Telegram`select`[]DIRECT`[]所有-自动`[]港台日新韩-�
 custom_proxy_group=流媒体`select`[]DIRECT`[]所有-自动`[]港台日新韩-自动`[]台日新韩-自动`[]香港-自动`[]台湾-自动`[]日本-自动`[]新加坡-自动`[]韩国-自动`[]美国-自动`[]REJECT
 custom_proxy_group=国外`select`[]DIRECT`[]所有-自动`[]港台日新韩-自动`[]台日新韩-自动`[]香港-自动`[]台湾-自动`[]日本-自动`[]新加坡-自动`[]韩国-自动`[]美国-自动`[]REJECT
 custom_proxy_group=国内`select`[]DIRECT`[]所有-自动`[]港台日新韩-自动`[]台日新韩-自动`[]香港-自动`[]台湾-自动`[]日本-自动`[]新加坡-自动`[]韩国-自动`[]美国-自动`[]REJECT
+
+custom_proxy_group=游戏`select`[]DIRECT`[]所有-自动`[]港台日新韩-自动`[]台日新韩-自动`[]香港-自动`[]台湾-自动`[]日本-自动`[]新加坡-自动`[]韩国-自动`[]美国-自动`[]REJECT
+custom_proxy_group=Google`select`[]DIRECT`[]所有-自动`[]港台日新韩-自动`[]台日新韩-自动`[]香港-自动`[]台湾-自动`[]日本-自动`[]新加坡-自动`[]韩国-自动`[]美国-自动`[]REJECT
 
 ;3、节点组
 
