@@ -4,6 +4,9 @@
 # UPDATED: 2024-07-03 16:16:36
 # DOMAIN-SUFFIX: 160
 # TOTAL: 160
+[General]
+
+[Host]
 *.abhouses.com = server:100.125.1.250
 *.agconnect.link = server:100.125.1.250
 *.aicccloud.com = server:100.125.1.250
