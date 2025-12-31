@@ -1,5 +1,6 @@
 ;1、域名组
 
+ruleset=谷歌,https://whatshub.top/rule/YouTube.list
 ruleset=谷歌,https://raw.githubusercontent.com/Z-Siqi/Clash-for-Windows_Rule/refs/heads/main/Rule/Google
 ruleset=AI,https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/AI.list
 ruleset=GitHub,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/GitHub/GitHub.list
