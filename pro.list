@@ -5,4 +5,5 @@ DOMAIN-SUFFIX,theinitium.com
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-KEYWORD,folo.is
 GEOSITE,category-games
-DOMAIN-SUFFIX,mojie.app
+DOMAIN-KEYWORD,mojie
+DOMAIN-KEYWORD,*.gov.tw
