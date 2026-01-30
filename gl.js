@@ -15,11 +15,11 @@ https://iisiv-2j7a9-v4m6l-jota8.glados.space
 
 [rewrite_local]
 
-^https?:\/\/glados\.[a-z]+\/api\/user\/checkin url script-request-header https://ddgksf2013.top/scripts/glados.autosign.js
+^https?:\/\/glados\.[a-z]+\/api\/user\/checkin url script-request-header https://raw.githubusercontent.com/RayGhub/clash_ini/refs/heads/main/gl.js
 
 [task_local]
 
-15 7,15 * * * https://ddgksf2013.top/scripts/glados.autosign.js, tag=Glados, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/GLaDOS.png
+15 7,15 * * * https://raw.githubusercontent.com/RayGhub/clash_ini/refs/heads/main/gl.js, tag=Glados, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/GLaDOS.png
 
 
 [mitm]
