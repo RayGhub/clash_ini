@@ -91,7 +91,7 @@ function checkIn() {
                     const balance = result.list && result.list[0] ? parseInt(result.list[0].balance) : 0;
                     const msg = result.message;
                     // 判断是否是重复签到
-                    const isRepeat = msg.includes("Tomorrow"); 
+                    const isRepeat = msg.includes("tomorrow"); 
                     const title = isRepeat ? "重复签到" : "签到成功";
                     
                     $.notify($.name, title, `点数：${balance}，${msg}`);
