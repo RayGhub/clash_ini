@@ -1,0 +1,3 @@
+proxies:
+  - {name: VLESS-Reality, server: 85.237.206.59, port: 443, type: vless, uuid: "1fce660f-307a-4fd1-845c-f488a64dafc5", network: tcp, udp: true, flow: xtls-rprx-vision, tls: true, servername: www.cloudflare.com, reality: {public-key: "AHHanfj2nNRHJeCQvwy6ZHhnadq9tEs6keZ39Lpj7wU", short-id: "6ba851"}}
+  - {name: Hysteria2-Backup, server: 85.237.206.59, port: 8443, type: hysteria2, password: "F19dFdiwqAYzRtWgYmVtPA", skip-cert-verify: true, sni: www.cloudflare.com, alpn: [h3]}
